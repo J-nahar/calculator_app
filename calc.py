@@ -87,5 +87,8 @@ tk.Button(root,text="log",width=6,bg="lightgreen",command=log).grid(row=5,column
 tk.Button(root,text="sin",width=6,bg="lightblue",command=sin).grid(row=6,column=0)
 tk.Button(root,text="cos",width=6,bg="lightblue",command=cos).grid(row=6,column=1)
 tk.Button(root,text="tan",width=6,bg="lightblue",command=tan).grid(row=6,column=2)
-
+#second commit
+#git add .
+#git commit -m"second try"
+#git push
 root.mainloop()
